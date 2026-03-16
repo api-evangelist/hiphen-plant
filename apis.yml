@@ -1,40 +1,40 @@
 aid: hiphen-plant
 name: Hiphen Plant
 description: >-
-  As scientists, we understand that you are developing agricultural products and
-  need to make decisions on which practice, genetics, chemistry, biological,
-  application or sowing rate maximizes the value of your technology. We have
-  spent our careers understanding plants and building tools that can
-  revolutionize the way plants can be assessed. And now, we are focused on
-  bringing the power of image analytics to your research program. 
+  Hiphen Plant provides advanced image analytics solutions for agricultural
+  research. As plant scientists, they build tools that revolutionize how
+  plants can be assessed, bringing the power of image analytics to agricultural
+  research programs for decision-making on genetics, chemistry, and practices.
 type: Index
-position: Consumer
-access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - API
-created: '2025-02-06'
-modified: '2025-02-06'
+  - Agriculture
+  - Plant Science
+  - Image Analytics
+  - Research
 url: >-
   https://raw.githubusercontent.com/api-evangelist/hiphen-plant/refs/heads/main/apis.yml
+created: '2025-02-06'
+modified: '2026-03-16'
 specificationVersion: '0.19'
 apis:
-  - aid: hiphen-plant:hiphen-plant
-    name: Hiphen Plant
+  - aid: hiphen-plant:hiphen-plant-api
+    name: Hiphen Plant API
     description: >-
-      As scientists, we understand that you are developing agricultural products
-      and need to make decisions on which practice, genetics, chemistry,
-      biological, application or sowing rate maximizes the value of your
-      technology. We have spent our careers understanding plants and building
-      tools that can revolutionize the way plants can be assessed. And now, we
-      are focused on bringing the power of image analytics to your research
-      program. 
-    humanURL: ' https://www.hiphen-plant.com/'
+      The Hiphen Plant API provides access to image analytics capabilities
+      for agricultural research, enabling programmatic assessment of plant
+      traits and phenotyping data.
+    humanURL: https://www.hiphen-plant.com/
     tags:
-      - API
+      - Agriculture
+      - Plant Science
+      - Image Analytics
     properties:
       - type: Documentation
-        url: ' https://www.hiphen-plant.com/'
+        url: https://www.hiphen-plant.com/
+common:
+  - type: Website
+    url: https://www.hiphen-plant.com/
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
+    email: kin@apievangelist.com
