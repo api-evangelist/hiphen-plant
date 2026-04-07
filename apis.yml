@@ -9,8 +9,8 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Agriculture
-  - Plant Science
   - Image Analytics
+  - Plant Science
   - Research
 url: >-
   https://raw.githubusercontent.com/api-evangelist/hiphen-plant/refs/heads/main/apis.yml
@@ -27,8 +27,8 @@ apis:
     humanURL: https://www.hiphen-plant.com/
     tags:
       - Agriculture
-      - Plant Science
       - Image Analytics
+      - Plant Science
     properties:
       - type: Documentation
         url: https://www.hiphen-plant.com/
