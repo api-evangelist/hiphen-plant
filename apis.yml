@@ -33,6 +33,8 @@ apis:
       - type: Documentation
         url: https://www.hiphen-plant.com/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hiphen
   - type: Website
     url: https://www.hiphen-plant.com/
 maintainers:
