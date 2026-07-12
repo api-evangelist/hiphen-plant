@@ -33,10 +33,14 @@ apis:
       - type: Documentation
         url: https://www.hiphen-plant.com/
 common:
+  - type: DomainSecurity
+    url: security/hiphen-plant-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/hiphen
   - type: Website
     url: https://www.hiphen-plant.com/
+  - url: https://www.hiphen-plant.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
