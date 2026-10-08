@@ -56,6 +56,12 @@ apis:
       - type: Documentation
         url: https://www.hiphen-plant.com/
 common:
+  - type: Plans
+    url: plans/hiphen-plant-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/hiphen-plant-rate-limits.yml
+  - type: FinOps
+    url: finops/hiphen-plant-finops.yml
   - type: DomainSecurity
     url: security/hiphen-plant-domain-security.yml
   - type: LinkedIn
